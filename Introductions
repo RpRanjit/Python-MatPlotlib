@@ -1,0 +1,27 @@
+How to think like a data scientist?
+
+not only to collect data but also communicate the data in visualize form
+
+-matplotlib
+-Seaborn
+-Ploty
+
+a data scientist don't work directly on the data but they assume a story and make it in visualize form so that others can also learn for it and use it.
+
+Matpotlib
+problem statement:
+data-visualizatiom - to make boring data(numbers, data, tables) into colorful, clear pictures(charts, graphs, bar, maps, pie)
+
+why:
+data ecience: Simplifying data exploration and axplanation in data science.
+Business/Marketing: Identifying health metrics and disease spread in healthcare.
+Healthcare: Monitoring health metrics and disease spread in healthcare/
+Finance: Analysing stock prices and financial performance in finance.
+education: Tracking student performance over time in education.
+
+libraries: 
+Matplotlib, seaborn, ploty
+1. visulization inamge help to understand ar more easily the text, raw data
+2. if may be lie
+3. 90% of big data is failure
+4. Miller'lows (7 pieces of information at once)
