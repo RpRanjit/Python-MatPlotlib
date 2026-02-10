@@ -1,0 +1,10 @@
+Subplot
+more than one plot at the same canvas or figure
+1. Multiple charts
+2. space
+3. Quickly
+4. Dashboard, machine learning etc
+
+subplot() divides into rows and columns
+
+plt.subplot(nrows, ncols, index)
